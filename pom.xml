@@ -40,7 +40,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>JobPortal-docker</finalName>
+		<finalName>app</finalName>
 	</build>
 
 </project>
